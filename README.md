@@ -1,6 +1,6 @@
 # A simple Weather App for IOS platform 
-Display the temperature, condition, and weather icon of a city.
-Bulit with Swift3 using APIXU api
+- Display the temperature, condition, and weather icon of a city.
+- Bulit with Swift3 using APIXU api
 
 # Preview:
 <img width="375" alt="sydneyweather" src="https://cloud.githubusercontent.com/assets/25650353/26042677/347f5124-3905-11e7-9cd0-6137365719bc.png">
