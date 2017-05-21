@@ -1,5 +1,5 @@
 # A simple Weather App for IOS platform 
-- Display the temperature, condition, and weather icon of a city.
+- Displays the current temperature, condition, and weather icon of a city.
 - Bulit with Swift3 using APIXU api
 
 # Preview:
