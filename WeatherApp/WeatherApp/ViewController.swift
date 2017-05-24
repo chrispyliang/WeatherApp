@@ -35,6 +35,11 @@ class ViewController: UIViewController, UISearchBarDelegate {
         searchBar.delegate = self
     }
     
+    override func touchesBegan(_ touches: Set<UITouch>, with event: UIEvent?) {
+        
+        self.view.endEditing(true)
+    }
+    
     
     func searchBarSearchButtonClicked(_ searchBar: UISearchBar) {
         
